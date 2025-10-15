@@ -1,8 +1,4 @@
-
-
 <?php
-echo "welcome to azure lab";
+echo "Welcome to Azure";
 ?>
 
-</body>
-</html
